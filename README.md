@@ -17,10 +17,11 @@ A Node.js API for fetching and processing skill statistics from Hypixel SkyBlock
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hypixel-skill-stats-api.git
+   git clone https://github.com/airs-sb/HypixelWrapperAPI.git
    cd hypixel-skill-stats-api
    ```
 2. Run The API
    ```bash
+   npm install express
    node api.js
    ```
